@@ -5,7 +5,7 @@
     - auto-goodbyes people on member leave,
     - a bunch of useful commands
 
-Available commands:
+# Available commands:
     - kick (kicks member from server),
     - ban (bans member from server),
     - unban (un-bans member from server),
