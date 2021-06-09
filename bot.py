@@ -1,3 +1,12 @@
+"""
+A simple Discord bot.
+
+The bot greets new members and says goodbye to leaving members.
+It is able to perform simple actions like kicking members from the server, banning members etc.
+Kicking, banning and the rest of administrative commands require an "Administrator" or "Moderator" role.
+The bot can handle various errors like missing permissions or providing not enough arguments.
+"""
+
 import discord
 from discord.ext import commands
 from random import choice
